@@ -87,7 +87,7 @@ function createBorad(){
   }
 }
 
-//check for match
+//check for matchs
 function checkForMatch(){
   var cards=document.querySelectorAll('img')
   var optionOneId=cardChoosenId[0]
